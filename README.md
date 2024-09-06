@@ -6,4 +6,4 @@ Real-Time Detection: The script is capable of running periodically to provide re
 Use Case:
 This script could be extended in DevOps pipelines for automated security monitoring, or as part of a larger system for detecting unusual behavior in a cloud environment. It provides a great starting point for introducing students to both automation in DevOps and log analysis in Cyber Security.
 
-Would you like further details or enhancements on this code sample?
+
